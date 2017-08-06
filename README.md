@@ -3,17 +3,17 @@ PieMod
 
 A keymap for users that need:
 
-- P: Programming symbols.
+- *P*: Programming symbols.
 
-- I: i3wm.
+- *I*: i3wm.
 
-- E: Emacs.
+- *E*: Emacs.
 
-- M: Macros.
+- *M*: Macros.
 
-- O: Ortholinear.
+- *O*: Ortholinear.
 
-- D: Dvorak.
+- *D*: Dvorak.
 
 Still a work-in-progress. Suggestions welcome.
 
