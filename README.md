@@ -3,17 +3,17 @@ PieMod
 
 A keymap for users that need:
 
-- P: Programming
+- P: Programming symbols.
 
-- I: i3wm
+- I: i3wm.
 
-- E: Emacs
+- E: Emacs.
 
-- M: Macros
+- M: Macros.
 
-- O: Ortholinear
+- O: Ortholinear.
 
-- D: Dvorak
+- D: Dvorak.
 
 Still a work-in-progress. Suggestions welcome.
 
@@ -23,8 +23,9 @@ Still a work-in-progress. Suggestions welcome.
 
 ### TODO
 
-- [ ] Add Emacs Layers
-- [ ] Add Macro Layer
-- [ ] Add System-Control Keys (rotation, brightness)
-- [ ] Switch Double and Single Quotes (or toggle)
-- [ ] Add Capslock(?)
+- [ ] Add Emacs layer.
+- [ ] Add Macro layer.
+- [ ] Add system control keys (rotation, brightness).
+- [ ] Switch " and ' quotes (or function to toggle default).
+- [ ] Add capslock.
+.
