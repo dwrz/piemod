@@ -3,13 +3,17 @@ PieMod
 
 A keymap for users that need:
 
-P: Programming
-I: i3wm
-E: Emacs
--
-M: Macros
-O: Ortholinear
-D: Dvorak
+- P: Programming
+
+- I: i3wm
+
+- E: Emacs
+
+- M: Macros
+
+- O: Ortholinear
+
+- D: Dvorak
 
 Still a work-in-progress. Suggestions welcome.
 
